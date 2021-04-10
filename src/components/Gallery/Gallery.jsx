@@ -10,12 +10,12 @@ import img6 from "../../images/gallery-img-6.jpg";
 
 const Gallery = () => {
   return ( <section className="gallery">
-    <img src={img1} alt="lol" />
-    <img src={img2} alt="lol" />
-    <img src={img3} alt="lol" />
-    <img src={img4} alt="lol" />
-    <img src={img5} alt="lol" />
-    <img src={img6} alt="lol" />
+    <img src={img1} alt="lovely living area" />
+    <img src={img2} alt="clean and modern bathroom" />
+    <img src={img3} alt="comfortable and clean bedroom" />
+    <img src={img4} alt="modern, equipped self serving kitchen" />
+    <img src={img5} alt="living room with sofa and TV" />
+    <img src={img6} alt="view from stonefall garden" />
   </section> );
 }
 

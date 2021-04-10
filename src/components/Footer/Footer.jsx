@@ -31,7 +31,7 @@ const Footer = () => {
           <BsEnvelope />
         </p>
         <p className="icon__text">
-          <a href="tel:07912254032">STONEFALL46@AOL.COM</a>
+          <a href="mailto:stonefall46@aol.com">STONEFALL46@AOL.COM</a>
         </p>
       </div>
 
