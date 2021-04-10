@@ -1,0 +1,28 @@
+.about {
+  padding: 7rem 1rem;
+  text-align: center;
+}
+
+.title {
+  color: #000;
+  font-size: 1.25rem;
+  font-weight: 400;
+  letter-spacing: 8px;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 50px;
+
+  @media only screen and (min-width: 768px) {
+    font-size: 1.75rem;
+  }
+}
+
+.about__text {
+  font-size: 1rem;
+  max-width: 380px;
+  margin: 0 auto;
+  line-height: 1.75rem;
+  @media only screen and (min-width: 768px) {
+    font-size: 1.25rem;
+  }
+}

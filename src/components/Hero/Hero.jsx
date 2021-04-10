@@ -10,5 +10,5 @@ const Hero = () => {
         <img src={logo} alt="Stonefall cottage" className="hero__logo"/>
     </div> );
 }
- 
+
 export default Hero;
